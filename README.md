@@ -1,7 +1,7 @@
 ## **Docker_Assignment:**
 
-  Step 1: Deploy a sample web application using docker containers by creating docker images from scratch. Existing docker container images are not allowed.
-  Step 2: Create a readme file with full explanation of the process followed, describe the app functionality, include details of author (G23AI2032).
+  Step1 : Deploy a sample web application using docker containers by creating docker images from scratch. Existing docker container images are not allowed.
+  Step2 : Create a readme file with full explanation of the process followed, describe the app functionality, include details of author (G23AI2032).
 
 ## **Account Opening Website**
 This project provides a simple web application to open an account, storing user information in MongoDB. 
@@ -9,12 +9,13 @@ The application is built using Python (Flask framework) for the backend, MongoDB
 
 ## **Prerequisites:**
 Make sure you have the following installed on your system:
-  Docker
-  Python 3.x
-  MongoDB 
+  - Docker
+  - Python 3.x
+  - MongoDB 
   
 ## Getting Started
-Step1:  **Clone this Repository**
+**Clone this Repository**
+`git clone https://github.com/g23ai2025/VCC_Docker_Assignment1.git`
 
 
 ## Docker Installation
@@ -55,5 +56,11 @@ Step 4:
 ![image](https://github.com/user-attachments/assets/6fc77523-a02e-425b-8983-c9c2f723b1d7)
 
 
+## Usage
 
+1. Provide Name , phone, email and gender  in the form and click on submit button.
+2. On click of "Submit", employee will be prompted with a message "Thankyou for opening account."
 
+## Author
+- [G23AI2025](https://github.com/g23ai2025/VCC_Docker_Assignment1)
+  
