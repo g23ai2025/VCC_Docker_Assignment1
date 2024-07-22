@@ -1,11 +1,11 @@
 ## **Docker_Assignment:**
 
   Step1 : Deploy a sample web application using docker containers by creating docker images from scratch. Existing docker container images are not allowed.
-  Step2 : Create a readme file with full explanation of the process followed, describe the app functionality, include details of author (G23AI2032).
+  Step2 : Create a readme file with full explanation of the process followed, describe the app functionality, include details of author
 
 ## **Account Opening Website**
-This project provides a simple web application to open an account, storing user information in MongoDB. 
-The application is built using Python (Flask framework) for the backend, MongoDB for data storage, and Docker for containerization.
+Welcome to the Account Opening Web Application! This application allows users to effortlessly open an account by providing essential details such as their name, phone number, email address, and gender. Below, you'll find comprehensive details and instructions for using this application effectively.
+The application is built using Python (Flask framework) and Docker for containerization.
 
 ## **Prerequisites:**
 Make sure you have the following installed on your system:
